@@ -5,4 +5,4 @@ Js kodları ile görsel liste geçişlerini düzenledim.
 
 <h2> Ekran Görüntüsü </h2>
 
-
+![](ezgif.com-video-to-gif.gif)
